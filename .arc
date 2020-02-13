@@ -5,6 +5,7 @@ friend-2g1
 
 @http
 get /api
+get /demo/:name
 
 @tables
 data
